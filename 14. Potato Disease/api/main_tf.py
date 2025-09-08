@@ -6,6 +6,7 @@ from io import BytesIO
 from PIL import Image
 import tensorflow as tf
 
+
 app = FastAPI()
 
 # CORS middleware for local development
